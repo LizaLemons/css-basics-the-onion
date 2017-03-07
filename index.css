@@ -1,0 +1,26 @@
+h1 {
+  color: #006400;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Georgia";
+  text-align: center;
+}
+
+p {
+  line-height: 19px;
+}
+
+#uppercase-unicorn {
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
